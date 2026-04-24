@@ -1,0 +1,11 @@
+**/.ssh/id_*
+**/.ssh/*_id_*
+**/.ssh/known_hosts
+
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
